@@ -1,4 +1,4 @@
-#BUild 0.0.1
+#Build 0.0.1
 Task | Sub-task | Assignee | Assigned on | Task Details | Comments
 ---| --- | --- | ---| --- | ---
 0.0.1 | **** | renniSaint | 08.01.16 | "Codeless" version of Zatobo with workflow information that uses command line interface | ---
